@@ -5,11 +5,10 @@
 
 ---
 
-## 🚀 About Me
-- ✅ Completed **Full-Stack Project** (frontend + backend + database integration)  
-- 🎮 Built **Unity games** with immersive mechanics  
-- 🖌️ Designed **3D models & animations** in Blender  
-- 💼 Open to opportunities in **Software Development, Game Development, and Consulting**  
+## 🚀 About Me  
+I am a **Computer Science Graduate** 🎓 with a strong foundation in **software development 💻, game design 🎮, and 3D visualization 🎨**.  
+My expertise spans across **web technologies 🌐, programming languages ⚡, databases 🗄️, and creative tools 🛠️**, enabling me to deliver both technical and creative solutions.  
+I am passionate about building **impactful projects 🚀** that combine **technology 🤖 and innovation 💡**.  
 
 ---
 
