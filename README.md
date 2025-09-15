@@ -23,9 +23,11 @@ I am passionate about building **impactful projects 🚀** that combine **techno
 
 ---
 
-## 📊 GitHub Stats  
-![Sundar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundar633&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundar633&layout=compact&theme=tokyonight)  
+## 🏅 Achievements  
+- 🌟 Completed **Full-Stack Project** integrating frontend, backend & database  
+- 🎮 Developed **interactive games** in Unity  
+- 🎨 Designed **3D models & animations** in Blender  
+- 📚 Consistently improving **problem-solving & coding skills**  
 
 ---
 
