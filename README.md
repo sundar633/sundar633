@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @sundarreddy
-- 👀 I’m interested in Unity, Blender,
-- 🌱 I’m currently pursuing my btech 4th year cse in lovely pofessional unversity
-- 💞️ I’m looking to collaborate on any sofware company or any consulting comapany
-- 📫 How to reach me -Gmail:sundarreddy633@gmail.com linked in sundar-reddy-0150b6294
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Sundar Reddy  
 
-<!---
-sundar633/sundar633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **B.Tech CSE Graduate – 2025 Batch | Lovely Professional University**  
+💡 Passionate about **Full-Stack Development, Game Development (Unity), and 3D Modeling (Blender)**  
+
+---
+
+## 🚀 About Me
+- ✅ Completed **Full-Stack Project** (frontend + backend + database integration)  
+- 🎮 Built **Unity games** with immersive mechanics  
+- 🖌️ Designed **3D models & animations** in Blender  
+- 💼 Open to opportunities in **Software Development, Game Development, and Consulting**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Programming Languages & Tools**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Sundar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundar633&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundar633&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundarreddy633@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundar-reddy-0150b6294)  
+
+---
+
+## ⚡ Fun Fact  
+✨ I love blending **technology + creativity** to create meaningful digital experiences.  
